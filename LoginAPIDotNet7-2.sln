@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginAPIDotNet7-2", "LoginAPIDotNet7-2.csproj", "{DB845048-A724-4ECE-BAFE-F1AB6F922467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB845048-A724-4ECE-BAFE-F1AB6F922467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB845048-A724-4ECE-BAFE-F1AB6F922467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB845048-A724-4ECE-BAFE-F1AB6F922467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB845048-A724-4ECE-BAFE-F1AB6F922467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51ED4256-2F30-4C82-A3A4-18F3D1D3CC1B}
+	EndGlobalSection
+EndGlobal
